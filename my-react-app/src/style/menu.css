@@ -1,0 +1,18 @@
+.menu_list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+  height: 48px;
+  align-items: center;
+  border-bottom: 1px solid #ececec;
+}
+
+.menu_list a{
+  text-decoration: none;
+  color: black;
+}
+.menu_list__item{
+  font-weight: bold;
+  text-transform: uppercase;
+}

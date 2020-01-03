@@ -1,0 +1,14 @@
+.footer_container{
+  display: flex;
+  flex-direction: row;
+  padding-right: 100px;
+  padding-left: 100px;
+  background-color: #cfcece85;
+  min-height: 50px;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.footer_text{
+  font-size: 14px;
+}
